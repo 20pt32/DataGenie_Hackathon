@@ -1,6 +1,6 @@
 I have implemented in two different ways :
 
--->DataGenie1(DataGenie1.pynb is the main file)
+-->DataGenie1(DataGenie_Hack1.pynb is the main file)
 
 -->DataGenie2(DataGenie2.pynb is the main file)
 
