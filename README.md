@@ -84,3 +84,6 @@ Tensorlfow LSTM
 Here, is the output :
 
 ![image](https://user-images.githubusercontent.com/76140010/224587891-1c840dde-3870-407d-bc88-3c61b2b24c96.png)
+
+
+![image](https://user-images.githubusercontent.com/76140010/224588078-a64456ee-4e43-4e79-85b2-732457491e92.png)
